@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  margin-top: 125px;
+  background-color: #263238;
+  color: #FEF9E7;
+}
+
+header * {
+  display: inline;
+}
+
+header {
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  height: 125px;
+  border-bottom: 4px solid #EFEBE9;
+  z-index: 1;
+  background-color: #263238
+  
+}
+span {
+  margin: 2rem;
+  font-size: 300%;
+  text-shadow: 1px 1px 2px rgb(134, 134, 134), 0 0 1em rgb(150, 150, 150),
+    0 0 0.2em rgb(150, 150, 150);
+}
+
+ul {
+  list-style-type: none;
+}
+
+header a {
+  color: #FEF9E7;
+  font-size: 150%;
+  float: right;
+  border-bottom: 5px solid #EFEBE9;
+  padding: 5px 25px;
+  text-align: center;
+  margin: 35px 15px 10px 15px;
+  text-decoration: none;
+  transition: all .2s ease-in-out;
+}
+
+a:hover {
+  transform: scale(1.1);
+}
+
+.parallax-a {
+  background-attachment: fixed;
+  background-image: url('./images/night-sea.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0 0 20px -5px #616161;
+  height: 400px;
+}
+
+.parallax-b {
+  background-attachment: fixed;
+  background-image: url('./images/swaying-forest.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0 0 20px -5px #616161;
+  height: 400px;
+}
+
+.parallax-c{  
+  background-attachment: fixed;
+  background-image: url('./images/ocean-clouds.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0 0 20px -5px #616161;
+  height: 400px;
+}
+
+.parallax-text {
+  text-shadow: 1px 1px 2px rgb(61, 61, 61), 0 0 1em rgb(0, 0, 0),
+  0 0 0.2em rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 150px;
+  font-size: 350%;
+  color: beige;
+}
+
+section {
+  font-size: 300%;
+  padding: 100px;
+  text-align: center;
+  line-height: 1.6;
+  color: bisque;
+}
+
+.container {
+  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.portfolio-text {
+  background-color: cornflowerblue;
+}
+
+.card {
+  background-image: url(https://via.placeholder.com/350);
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid burlywood;
+  height: 350px;
+  width: 350px;
+}
+
+.card:nth-child(1) {
+  height: 500px;
+  width: 75%;
+}
+
+.contact {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+  color: #FEF9E7;
+  font-size: 150%;
+  float: right;
+  border-bottom: 5px solid #EFEBE9;
+  text-align: center;
+  text-decoration: none;
+  transition: all .2s ease-in-out;
+  margin: 40px;
+  padding: 10px;
+}

@@ -1,5 +1,7 @@
 # portfolio-jg
 
+This is the first itteration of my Portfolio page that I will use to show to recruiters and to share around my social network.
+
 ## User Story
 
 - AS AN employer
@@ -22,3 +24,5 @@
 - THEN I am taken to that deployed application
 - WHEN I resize the page or view the site on various screens and devices
 - THEN I am presented with a responsive layout that adapts to my viewport
+
+![plot](./assets/images/Screen%20Shot%202022-10-24%20at%208.19.57%20PM.png)
