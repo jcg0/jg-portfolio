@@ -113,14 +113,19 @@ section {
   background-color: cornflowerblue;
 }
 
-.card {
-  background-image: url(https://via.placeholder.com/350);
+
+.card{
   padding: 20px;
   margin: 20px;
   border: 2px solid burlywood;
   height: 350px;
   width: 350px;
 }
+
+
+
+
+
 
 .card:nth-child(1) {
   height: 500px;
