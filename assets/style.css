@@ -118,8 +118,8 @@ section {
   padding: 20px;
   margin: 20px;
   
-  height: 350px;
-  width: 350px;
+  /* height: 350px;
+  width: 350px; */
 }
 
 .card-img {
