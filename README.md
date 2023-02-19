@@ -1,8 +1,8 @@
 # portfolio-jg
 
 This is the first itteration of my Portfolio page that I will use to show to recruiters and to share around my social network.
-https://jcg0.github.io/mod2-challenge/
-
+[(https://jcg0.github.io/jg-portfolio/)
+](https://jcg0.github.io/jg-portfolio/)
 ## User Story
 
 - AS AN employer
