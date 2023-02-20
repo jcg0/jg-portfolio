@@ -1,6 +1,7 @@
 # portfolio-jg
 
-This is the first itteration of my Portfolio page that I will use to show to recruiters and to share around my social network.
+The hardest part of this project was getting the styling right. I was able to make everything look nice on a full screen, but making it responsive on mobile screens was a true challenge.
+
 [(https://jcg0.github.io/jg-portfolio/)
 ](https://jcg0.github.io/jg-portfolio/)
 ## User Story
