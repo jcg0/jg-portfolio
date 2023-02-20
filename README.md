@@ -26,4 +26,4 @@ This is the first itteration of my Portfolio page that I will use to show to rec
 - WHEN I resize the page or view the site on various screens and devices
 - THEN I am presented with a responsive layout that adapts to my viewport
 
-![plot](./assets/images/Screen%20Shot%202022-10-24%20at%208.19.57%20PM.png)
+![plot](./assets/images/Screenshot%202023-02-19%20at%206.59.09%20PM.png)
